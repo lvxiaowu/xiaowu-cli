@@ -82,6 +82,12 @@ vue init <template-name> <project-name>
             ```
             npm publish
             ``` 
+    * 如何使用
+        ```
+            npm i -g lvxaiowu-cli
+            lv list
+            lv init tpl-a abc
+        ``` 
 
 
 
