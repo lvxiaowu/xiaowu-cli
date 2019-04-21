@@ -84,7 +84,7 @@ vue init <template-name> <project-name>
             ``` 
     * 如何使用
         ```
-            npm i -g lvxaiowu-cli
+            npm i -g lvxiaowu-cli
             lv list
             lv init tpl-a abc
         ``` 
